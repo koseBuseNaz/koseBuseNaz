@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @koseBuseNaz
-- I am a computer engineering student in Bahcesehir University
-- 👀 I’m interested in web development
-- I am learning C++ in school
-- 🌱 I’m currently learning JavaScript on online platforms
+<h1>Hello,</h1>
+- 👋 I’m @koseBuseNaz</br>
+- I am a computer engineering student in Bahcesehir University</br>
+- 👀 I’m interested in web development</br>
+- I am learning C++ in school</br>
+- 🌱 I’m currently learning JavaScript on online platforms</br>
 - 📫 You can reach me from busenazkose@hotmail.com e-mail account
 
 <!---
